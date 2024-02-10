@@ -1,0 +1,6 @@
+name: TrollPlugin
+version: '${project.version}'
+main: ts.ralexme.trollplugin.TrollPlugin
+api-version: '1.16'
+description: TrollByRalexME is a STILL simple trolling plugin for u'r minecraft server, but it will/have many interesting features!
+author: RalexME
