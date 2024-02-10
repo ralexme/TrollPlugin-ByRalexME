@@ -1,8 +1,8 @@
 # TrollPlugin-ByRalexME 🔥
 
 Functios:
-   - When player writes the <Message>, he willbe blowed UP!
-      - You can customize the <Message> in config.
+   - When player writes the {Message}, he willbe blowed UP!
+      - You can customize the {Message} in config folder.
 
 Commands:  
    - command(none)
